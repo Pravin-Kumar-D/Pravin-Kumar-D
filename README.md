@@ -28,6 +28,11 @@ Modeling: Star Schema, Fact & Dimension tables, DAX
 Visualization: KPI design, layouting, UX for dashboards
 
 Tools: MS SQL Server, GitHub, Power BI Service
+
+## Certifications
+[Microsoft Certified: Power BI Data Analyst Associate](https://github.com/user-attachments/files/25417484/PL-300.pdf)
+
+
 ## Projects
 
 ### 1.Sales Analysis
@@ -52,5 +57,5 @@ Key Areas: Conversion Funnel Analysis, Engagement Trends, Content Performance, P
 
 Link: [Marketing Analysis](https://github.com/Pravin-Kumar-D/Marketing-Analysis.git)
 ## Links
-[Linkedin](www.linkedin.com/in/pravin-kumar-dharmarajan-4630661a7)
+[Linkedin](https://www.linkedin.com/in/pravin-kumar-dharmarajan-4630661a7/)
 

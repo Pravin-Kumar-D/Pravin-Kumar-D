@@ -32,6 +32,9 @@ Tools: MS SQL Server, GitHub, Power BI Service
 ## Certifications
 [Microsoft Certified: Power BI Data Analyst Associate](https://github.com/user-attachments/files/25417484/PL-300.pdf)
 
+[SQL Intermediate](https://github.com/user-attachments/files/25465414/sql_intermediate.certificate.pdf)
+
+
 
 ## Projects
 

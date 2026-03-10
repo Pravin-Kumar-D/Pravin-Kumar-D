@@ -1,64 +1,45 @@
+# Hi, I'm Pravin Kumar D 👋
 
-# Portfolio
+### Data Analyst | SQL · Python · Power BI · Excel
 
+Results-driven professional transitioning into Data Analytics with 3+ years at HCLTech. 
+I build end-to-end analytics solutions — from SQL data pipelines to Python EDA to 
+interactive Power BI dashboards.
 
-## About Me
-I'm Pravin Kumar, a data analyst skilled in Power BI, SQL, Python, data modeling, and dashboard design.
-I build clean, insight-driven analytics projects and focus on solving real business problems using data.
+📜 [Microsoft Certified: Power BI Data Analyst Associate (PL-300)](https://github.com/user-attachments/files/25417484/PL-300.pdf)  
+📜 [HackerRank SQL Intermediate Certified](https://github.com/user-attachments/files/25465414/sql_intermediate.certificate.pdf)
 
-I’m currently working on multiple end-to-end analytics case studies, each involving:
+---
 
-Data cleaning & preprocessing
+## 🛠️ Tech Stack
 
-SQL transformations
-
-Power BI modeling (Star Schema)
-
-DAX measure creation
-
-Visual design & insight generation
-## Skills
-
-Analytics: Power BI, Excel, Python (Pandas, NumPy, Seaborn, Matplotlib)
-
-Data Engineering: SQL, Power Query, ETL, Data Cleaning, Joins, CTEs
-
-Modeling: Star Schema, Fact & Dimension tables, DAX
-
-Visualization: KPI design, layouting, UX for dashboards
-
-Tools: MS SQL Server, GitHub, Power BI Service
-
-## Certifications
-[Microsoft Certified: Power BI Data Analyst Associate](https://github.com/user-attachments/files/25417484/PL-300.pdf)
-
-[SQL Intermediate](https://github.com/user-attachments/files/25465414/sql_intermediate.certificate.pdf)
+| Category | Tools |
+|---|---|
+| Visualization | Power BI (DAX, Power Query, Star Schema, KPI Design, Interactive Dashboards) |
+| Languages | SQL (MS SQL Server, SSMS, CTEs, Window Functions, Joins), Python (Pandas, NumPy, Matplotlib, Seaborn, NLTK) |
+| Concepts | Statistics (Descriptive, Hypothesis Testing basics), Root Cause Analysis, Defect Prevention |
+| Analytics | Exploratory Data Analysis, Customer Segmentation, Cohort Analysis, Sentiment Analysis (NLP) |
+| Other Tools | Excel (VLOOKUP, Pivot Tables, Automation), GitHub, ETL, Data Cleaning, Data Modeling |
 
 
+---
 
-## Projects
+## 📂 Featured Projects
 
-### 1.Sales Analysis
+### 📊 [Sales Analysis](https://github.com/Pravin-Kumar-D/Sales-Analysis)
+End-to-end retail analytics using Global Superstore data. Built a 3-page Power BI 
+dashboard covering profitability, CLV segmentation, and regional performance.  
+`SQL` `Power BI` `DAX` `Star Schema`
 
-A 3-page Power BI dashboard delivering insights into sales trends, profitability, product performance, customer behavior, and regional patterns.
-Includes SQL-based data preparation, star-schema modeling, and advanced DAX metrics.
+### 📣 [Marketing Analysis](https://github.com/Pravin-Kumar-D/Marketing-Analysis)
+Full-stack analytics pipeline with Python NLP sentiment analysis, SQL transformations, 
+and a 4-page Power BI dashboard analyzing customer journeys and conversion funnels.  
+`SQL` `Python` `NLTK` `Power BI` `DAX`
 
-Tools: Power BI, SQL (SSMS), Power Query, DAX
+---
 
-Key Areas: Trends, KPIs, Category analysis, Product insights, CLV segmentation, Shipping efficiency
+## 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/pravin-kumar-dharmarajan-4630661a7/)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:pravinkumardharmarajan@gmail.com)
 
-Link: [Sales Analysis](https://github.com/Pravin-Kumar-D/Sales-Analysis.git)
-
-### 2.Marketing Analysis
-
-A 4-page Power BI dashboard analyzing customer journey performance, marketing engagement, conversion behavior, and sentiment-driven feedback insights.
-Includes SQL-based data transformation, Python-powered sentiment analysis (NLP), star-schema modeling, and advanced DAX calculations.
-
-Tools: Power BI, SQL (SSMS), Python (NLTK), Power Query, DAX
-
-Key Areas: Conversion Funnel Analysis, Engagement Trends, Content Performance, Product-Level Conversion, Sentiment Analysis, Customer Feedback Insights
-
-Link: [Marketing Analysis](https://github.com/Pravin-Kumar-D/Marketing-Analysis.git)
-## Links
-[Linkedin](https://www.linkedin.com/in/pravin-kumar-dharmarajan-4630661a7/)
 

@@ -1,3 +1,4 @@
+
 # Hi, I'm Pravin Kumar D 👋
 
 ### Data Analyst | SQL · Python · Power BI · Excel
@@ -7,7 +8,7 @@ I build end-to-end analytics solutions — from SQL data pipelines to Python EDA
 interactive Power BI dashboards.
 
 📜 [Microsoft Certified: Power BI Data Analyst Associate (PL-300)](https://github.com/user-attachments/files/25417484/PL-300.pdf)  
-📜 [HackerRank SQL Intermediate Certified](https://github.com/user-attachments/files/25465414/sql_intermediate.certificate.pdf)
+📜 [HackerRank SQL Advanced Certified](https://github.com/user-attachments/files/26956163/sql_advanced.certificate.pdf)
 
 ---
 
